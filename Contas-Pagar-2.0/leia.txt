@@ -1,0 +1,3 @@
+Recomendado deixar a pasta do BD fora da htdocs, por motivos de segurança.
+
+As instruções SQL não estão protegidas contra sql injection.
